@@ -1,0 +1,21 @@
+{
+  "name": "js-utils-ryanzhou",
+  "version": "1.0.0",
+  "description": "一个公开的函数工具库",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAILeiz/js-utils-ryanzhou.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAILeiz/js-utils-ryanzhou/issues"
+  },
+  "homepage": "https://github.com/CAILeiz/js-utils-ryanzhou#readme"
+}
